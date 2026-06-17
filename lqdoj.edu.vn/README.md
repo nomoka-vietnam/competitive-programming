@@ -11,9 +11,8 @@ Problems solved on [LQDOJ](https://lqdoj.edu.vn/), a Vietnamese online judge for
 ### Format
 
 Each problem directory contains:
-- `<id>.cpp` — Solution source code
-- `<id>.exe` — Compiled binary
-- `<id>.inp` — Sample / test input
-- `<id>.out` — Expected output
+- `<id>.cpp` — Solution source code (tracked by git)
+
+> Note: `.exe`, `.inp`, `.out`, and `.txt` files are excluded via `.gitignore`. Only `.cpp` source files are version-controlled.
 
 Solutions follow the template defined in `.template/`.

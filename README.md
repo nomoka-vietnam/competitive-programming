@@ -15,6 +15,10 @@ A generic C++ template is available under `.template/`. It includes:
 - Fast I/O optimization (`OPTIMIZE`)
 - File-based I/O helper (`FILESTD`)
 
+## Gitignore
+
+Binary (`.exe`), input (`.inp`), output (`.out`), and text (`.txt`) files are ignored by git. Only `.cpp` source files are tracked.
+
 ## Usage
 
 ```bash
