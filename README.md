@@ -5,6 +5,7 @@ Solutions to competitive programming problems, organized by platform.
 ## Platforms
 
 - [LQDOJ](https://lqdoj.edu.vn/) — Vietnamese online judge for high school students.
+- [Vương Thanh Trung](https://vuongthanhtrung.vn/) — Personal competitive programming site.
 
 ## Template
 
