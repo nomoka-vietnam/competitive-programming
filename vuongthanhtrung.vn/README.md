@@ -1,4 +1,4 @@
-# Vương Thanh Trung
+# Vuong Thanh Trung
 
 Solutions for problems from [vuongthanhtrung.vn](https://vuongthanhtrung.vn/).
 

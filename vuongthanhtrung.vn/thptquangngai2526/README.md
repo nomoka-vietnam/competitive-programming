@@ -1,4 +1,4 @@
-# THPT Quảng Ngãi 25-26 — Problem 1
+# THPT Quảng Ngãi 25-26
 
 **Statement:** [debai.pdf](debai.pdf)
 
