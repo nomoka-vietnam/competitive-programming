@@ -25,7 +25,6 @@ typedef map<int, int> mii;
 
 #define debug(x) clog << x << endl
 
-const ll INF = (int) 1e18;
 int n;
 
 void Read()
