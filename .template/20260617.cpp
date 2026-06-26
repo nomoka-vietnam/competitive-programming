@@ -21,7 +21,7 @@ typedef map<int, int> mii;
 #define size(x) (int) x.size()
 
 #define OPTIMIZE ios_base::sync_with_stdio(false); cin.tie(NULL)
-#define FILESTD(x) if(fopen(x".inp", "r")) freopen(x".inp", "r", stdin), freopen(x".out", "w", stdout)
+#define FILESTD(x) if(fopen(x".INP", "r")) freopen(x".INP", "r", stdin), freopen(x".OUT", "w", stdout)
 
 #define debug(x) clog << x << endl
 
